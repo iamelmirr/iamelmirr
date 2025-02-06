@@ -17,17 +17,17 @@ I'm a passionate self-taught developer specializing in modern web technologies. 
 ### 🗣️ Language Lab - AI Language Tutor
 An AI-powered **language learning platform** designed to enhance speaking and comprehension skills. This project integrates AI-driven chat interactions, voice recognition, and tailored learning paths.
 
-🔗 **[Learn more](https://github.com/yourusername/language-lab)**
+🔗 **[Learn more](https://github.com/iamelmirr/lanugage-lab)**
 
 ### 📚 Shelfie - Book Search Engine
 A sleek and intuitive book search website utilizing the **Google Books API** to fetch and display books dynamically. Users can search, filter, and discover books effortlessly.
 
-🔗 **[Check it out](https://github.com/yourusername/shelfie)**
+🔗 **[Check it out](https://github.com/iamelmirr/shelfie)**
 
 ### ☕ Caffiend - Coffee Tracker
 A fun and interactive **coffee tracking app** that helps users log their daily caffeine intake, discover new coffee varieties, and track their habits over time.
 
-🔗 **[Explore Caffiend](https://github.com/yourusername/caffiend)**
+🔗 **[Explore Caffiend](https://github.com/iamelmirr/caffiend)**
 
 ---
 
